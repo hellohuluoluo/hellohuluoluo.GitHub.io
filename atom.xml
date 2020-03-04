@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hellohuluoluo.GitHub.io</id>
     <title>胡罗罗的小站</title>
-    <updated>2020-03-04T02:32:43.248Z</updated>
+    <updated>2020-03-04T02:44:04.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hellohuluoluo.GitHub.io"/>
     <link rel="self" href="https://hellohuluoluo.GitHub.io/atom.xml"/>
     <logo>https://hellohuluoluo.GitHub.io/images/avatar.png</logo>
     <icon>https://hellohuluoluo.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 胡罗罗的小站</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://hellohuluoluo.GitHub.io/post/about</id>
+        <link href="https://hellohuluoluo.GitHub.io/post/about">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="这是关于的页面可以在这里向世界介绍你">这是关于的页面，可以在这里向世界介绍你！*</h1>
+<p><img src="https://hellohuluoluo.GitHub.io/post-images/1583230714212.gif" alt=""><br>
+<img src="https://hellohuluoluo.GitHub.io/post-images/1583230755671.jpg" alt=""></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://hellohuluoluo.GitHub.io/post/hello-gridea</id>
