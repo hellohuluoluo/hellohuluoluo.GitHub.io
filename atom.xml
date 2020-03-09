@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hellohuluoluo.GitHub.io</id>
     <title>胡罗罗的小站</title>
-    <updated>2020-03-04T06:59:01.713Z</updated>
+    <updated>2020-03-09T01:50:45.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hellohuluoluo.GitHub.io"/>
     <link rel="self" href="https://hellohuluoluo.GitHub.io/atom.xml"/>
@@ -83,10 +83,10 @@ if not bar:<br>
 return True<br>
 任务清单</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7613764"> @mentions, #refs, <a href="">links</a>, <strong>formatting</strong>, and <del>tags</del><label class="task-list-item-label" for="task-item-7613764"> @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-427977"><label class="task-list-item-label" for="task-item-427977"> list syntax required (any unordered or ordered list supported)</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4761536"><label class="task-list-item-label" for="task-item-4761536"> this is a complete item</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5085418"><label class="task-list-item-label" for="task-item-5085418"> this is an incomplete item</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4305121"> @mentions, #refs, <a href="">links</a>, <strong>formatting</strong>, and <del>tags</del><label class="task-list-item-label" for="task-item-4305121"> @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5575626"><label class="task-list-item-label" for="task-item-5575626"> list syntax required (any unordered or ordered list supported)</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7957878"><label class="task-list-item-label" for="task-item-7957878"> this is a complete item</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8941529"><label class="task-list-item-label" for="task-item-8941529"> this is an incomplete item</label></li>
 </ul>
 <p>Table</p>
 <table>
